@@ -1,7 +1,7 @@
 [![MasterHead](https://assets.datacamp.com/production/repositories/5666/datasets/9a5790717ccd1e1f89c427edbd3a20506cdaec68/ds_l.png)](https://github.com/jeremiah-tay?tab=overview&from=2024-02-01&to=2024-02-29)
 <h1 align="center">Hi 👋, I'm Jeremiah Tay</h1>
 <h3 align="center">A passionate data science student in Singapore</h3>
-<img align = “right” alt = “Coding” width = “400” src = “https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg”>
+<h3 align="left">Coding:</h3>
 
 - 🌱 I’m currently learning **Tensorflow Frameworks**
 
