@@ -3,13 +3,11 @@
 <h3 align="center">A passionate data science student in Singapore</h3>
 <h3 align="left">Coding:</h3>
 
-- 🌱 I’m currently learning **Tensorflow Frameworks**
+- 🌱 I’m currently learning **Machine Learning Frameworks**
 
 - 💬 Ask me about **SQL, Pandas, Matplotlib**
 
-- 📫 How to reach me **tayjeremiah2000@gmail.com**
-
-- ⚡ Fun fact **Data Science is cool**
+- 📫 How to reach me **tayjeremiah2000@gmail.com/ e0726076@u.nus.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
