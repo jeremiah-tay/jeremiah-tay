@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Machine Learning Frameworks**
 
+- 🔨 Tools: **Data Cleaning, Data Analysis, Data Visualisation**
+
 - 💬 Ask me about **SQL, Pandas, Matplotlib**
 
 - 📫 How to reach me **tayjeremiah2000@gmail.com/ e0726076@u.nus.edu**
