@@ -1,5 +1,5 @@
 [![MasterHead](https://assets.datacamp.com/production/repositories/5666/datasets/9a5790717ccd1e1f89c427edbd3a20506cdaec68/ds_l.png)](https://github.com/jeremiah-tay?tab=overview&from=2024-02-01&to=2024-02-29)
-<h1 align="center">Hi 👋, I'm Jeremiah Tay</h1>
+<h1 align="center">Hi, I'm Jeremiah Tay 👋</h1>
 <h3 align="center">A passionate data science student in Singapore</h3>
 <h3 align="left">Coding:</h3>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jeremiah-tay2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremiah-tay2000/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeremiah-tay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremiah-tay/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
