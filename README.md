@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, Pandas, Matplotlib**
 
-- 📫 How to reach me **tayjeremiah2000@gmail.com/ e0726076@u.nus.edu**
+- 📫 How to reach me **tayjeremiah2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
